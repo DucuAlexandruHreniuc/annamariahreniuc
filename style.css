@@ -129,7 +129,12 @@ body {
     flex-direction: column;
     text-align: left;
   }
-}
+}  
+@media (max-width: 1000px){
+    .nav-links{display: flex;
+  flex-direction: column;}
+};
+
 
 /* Contact */
 .contact p {

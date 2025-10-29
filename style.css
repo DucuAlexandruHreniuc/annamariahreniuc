@@ -62,7 +62,7 @@ body {
 .btn {
   display: inline-block;
   background: #2563eb;
-  color: #fff;
+  color: #fff !important;
   padding: 0.8rem 1.6rem;
   border-radius: 6px;
   text-decoration: none;
@@ -126,7 +126,7 @@ body {
 }
 @media (min-width: 768px) {
   .about-content {
-    flex-direction: row;
+    flex-direction: column;
     text-align: left;
   }
 }

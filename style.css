@@ -141,6 +141,7 @@ body {
   margin-bottom: 0.5rem;
 }
 .contact a {
+  margin-top: 1rem;
   color: #2563eb;
   text-decoration: none;
 }
